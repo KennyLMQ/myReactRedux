@@ -1,0 +1,6 @@
+# Artifacts
+/build
+
+# Temp
+/src/serviceWorker.js
+/src/features/counter
